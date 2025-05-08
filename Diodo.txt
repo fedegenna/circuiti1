@@ -1,5 +1,25 @@
-VOLTMETRO IN PARALLELO CON IL GENERATORE E AMPEROMETRO IN SERIE CON LA RESISTENZA: (contatto (1))
++-VOLTMETRO IN PARALLELO CON IL GENERATORE E AMPEROMETRO IN SERIE CON LA RESISTENZA: (contatto (1))
 VOLMETRO IN PARALLELO CON RESISTENZA E AMPEROMETRO IN SERIE (contatto (2))
-Errore è la sensibilità: 0.001 V (molto stabile) e 0.001 mA ma meno stabile , balla di 0.002/0.003
-contatto (1) || contatto (2) : (voltaggio, corrente)
+Errore è la sensibilità: 0.001 V (molto stabile) e 0.001 mA ma meno stabile , balla di 0.002/0.003 anche di più, dove non ci sono errori sulle correnti sono le sensibilità, (Voltaggio (1) cacato, perchè amperometro ha resistenza non trascurabile (dato che quella del diodo diminuisce) e viceversa)
 
+contatto (1) || contatto (2) : (voltaggio, corrente)
+0.349, 0.0010 mA || 0.349 0.0010 mA 
+0.465, 0.0264 mA || 0.465, 0.0267 mA
+0.560, 0.3114 mA || 0.559, 0.3106 mA
+0.669, 2.97 +- 0.02 mA || 0.652, 2.948 +- 0.002 mA
+0.774 ,11.60 +- 0.02 mA || 0.706, 11.585 +- 0.005 mA
+0.931, 31.7 +- 0.1mA || 0.745, 32.01 +- 0.01 mA
+1.097, 56.9 +- 0.1 mA || 0.765, 57.03 +- 0.01  
+1.154, 65.9 +- 0.1 mA || 0.769, 65.80 +-0.01 mA
+1.204, 73.88 +- 0.05 mA || 0.772, 74.25 +- 0.01 mA
+1.251, 81.65 +- 0.01 mA || 0.776, 81.63 +- 0.01 mA
+1.290, 88.1 +- 0.1 mA || 0.778, 88.10 +- 0.01 mA
+1.317, 92.5 +- 0.1 mA || 0.779, 92.34 +- 0.01 mA 
+1.355, 98.8 +- 0.01 mA || 0.781, 98.6 +- 0.1 mA 
+1.391, 104.63 +- 0.01 mA || 0.782, 104.6 +- 0.1 mA
+1.425, 110.5 +- 0.1 mA || 0.784, 110.45 +- 0.05 mA
+1.454, 115.33 +- 0.02 mA || 0.785, 115.36 +- 0.01 mA
+1.481, 119.8 +- 0.1 mA || 0.786, 119.69 +- 0.01 mA
+1.478, 118.4 mA || 0.786, 118.46 mA
+1.441, 0.728 A || 0.820, 0.737 +- 0.003 A
+1.465, 0.786 +- 0.002 A || 0.816, 0.802 A 
