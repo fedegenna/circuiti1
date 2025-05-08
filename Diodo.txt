@@ -1,0 +1,5 @@
+VOLTMETRO IN PARALLELO CON IL GENERATORE E AMPEROMETRO IN SERIE CON LA RESISTENZA: (contatto (1))
+VOLMETRO IN PARALLELO CON RESISTENZA E AMPEROMETRO IN SERIE (contatto (2))
+Errore è la sensibilità: 0.001 V (molto stabile) e 0.001 mA ma meno stabile , balla di 0.002/0.003
+contatto (1) || contatto (2) : (voltaggio, corrente)
+
