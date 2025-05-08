@@ -1,1 +1,34 @@
-
+SENZA Rload ( dovrebbe essere la metà)
+Vin = 0.08 V 
+Vout = 0.043 V
+Vin = 0.13 V
+Vout senza Rload = 0.067 V 
+Vin = 0.26
+Vout = 0.137
+Vin = 0.39
+Vout = 0.203
+Vin = 0.53
+Vout = 0.273
+R1 = 97.9 +- 0.1 Ohm 
+R2 = 99.7 +- 0.1 Ohm
+Con Rload:
+impostiamo Vin = 30
+Rload || Vout: (V) (errore di Rload sensibilità di 1 kOhm da 610 kOhm in poi, prima 0.1 kOhm)
+10 kOhm (10.01) || 0.156
+70 kOhm (70.4) || 0.156
+130 kOhm (130.2)|| 0.156
+190 kOhm (190.5) || 0.156
+250 kOhm (251.1) || 0.156
+310 kOhm (310.5) || 0.156
+370 kOhm (370.8)|| 0.156
+430 kOhm (437.7) || 0.156
+490 kOhm (498.0) || 0.156
+550 kOhm (557.7) || 0.156
+610 kOhm (618) || 0.156
+670 kOhm (679)|| 0.156
+730 kOhm (737)|| 0.156
+790 kOhm (798) || 0.156
+850 kOhm (857) || 0.156
+910 kOhm (918)|| 0.156
+970 kOhm (978) || 0.156
+1 MOhm (1.008) || 0.156
