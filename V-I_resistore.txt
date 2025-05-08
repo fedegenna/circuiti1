@@ -1,1 +1,21 @@
+Resistenza misurata:
+2 KOhm
+Voltaggio(V) || Corrente(mA):
+VOLTMETRO IN PARALLELO CON IL GENERATORE E AMPEROMETRO IN SERIE CON LA RESISTENZA: (contatto (1))
+0.117 || 0.0583
+0.719 || 0.3582
+1.308 || 0.6524
+2.111 || 1.0535
+3.005 || 1.4995 
+3.828 || 1.9104
+4.169 || 2.0807
+5.183 || 2.5877
+6.211 || 3.1013
+7.070 || 3.5267
+VOLMETRO IN PARALLELO CON RESISTENZA E AMPEROMETRO IN SERIE (contatto (2))
+
+resistenza 2:
+40 Ohm
+Contatto (1) || contatto (2): (voltaggio e corrente)
+V = 0.102 V, C = 2.173
 
