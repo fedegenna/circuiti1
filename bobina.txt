@@ -2,6 +2,7 @@ N = 31
 raggio: (+- 0.1 cm)
 13.3 cm
 corrente (A) || angolo (gradi) (sensibilità di un grado)
+set1
 0 || 0
 0.07 || 18 
 0.14 || 38 
@@ -17,5 +18,10 @@ corrente (A) || angolo (gradi) (sensibilità di un grado)
 0.73 || 75
 0.83 || 76
 0.93 || 78
-1.08 || 78
+1.07 || 80
+1.24 || 81
+1.56 || 82
+2.00 || 83
+2.08 || 83
 
+set 2
