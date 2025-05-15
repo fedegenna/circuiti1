@@ -12,7 +12,7 @@ Vout = 0.273
 R1 = 97.9 +- 0.1 Ohm 
 R2 = 99.7 +- 0.1 Ohm
 Con Rload:
-impostiamo Vin = 0.30
+impostiamo Vin = 0.31
 Rload || Vout: (V) (errore di Rload sensibilità di 1 kOhm da 610 kOhm in poi, prima 0.1 kOhm)
 10 kOhm (10.01) || 0.156
 70 kOhm (70.4) || 0.156
