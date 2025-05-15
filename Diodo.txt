@@ -3,7 +3,7 @@ VOLMETRO IN PARALLELO CON RESISTENZA E AMPEROMETRO IN SERIE (contatto (2))
 Errore è la sensibilità: 0.001 V (molto stabile) e 0.001 mA ma meno stabile , balla di 0.002/0.003 anche di più, dove non ci sono errori sulle correnti sono le sensibilità, (Voltaggio (1) cacato, perchè amperometro ha resistenza non trascurabile (dato che quella del diodo diminuisce) e viceversa)
 
 contatto (1) || contatto (2) : (voltaggio, corrente)
-0.349, 0.0010 mA || 0.349 0.0010 mA 
+0.349, 0.0010 mA || 0.349, 0.0010 mA 
 0.465, 0.0264 mA || 0.465, 0.0267 mA
 0.560, 0.3114 mA || 0.559, 0.3106 mA
 0.569, 0.3399 mA || 0.566, 0.3406 mA
